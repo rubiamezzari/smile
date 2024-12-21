@@ -1,0 +1,40 @@
+.invisivel {
+  display: none;
+}
+
+.visivel {
+  display: inline;
+}
+
+.inicial {
+  text-align: center;
+  font-size: 100px;
+  background-color: #e0f7fa; /* Azul claro */
+  width: 150px;
+  height: 200px;
+  border: 15px solid #f0cc00; /* Azul mais escuro */
+  padding: 10px;
+  margin: 20px;
+}
+
+.acertou {
+  text-align: center;
+  color: #ffffff; /* Branco */
+  background-color: #f7f08e; /* Azul claro */
+  width: 150px;
+  height: 200px;
+  border: 15px solid #f0b906; /* Azul mais escuro */
+  padding: 10px;
+  margin: 20px;
+}
+
+.errou {
+  text-align: center;
+  color: #ffffff; /* Branco */
+  background-color: #b71c1c; /* Vermelho */
+  width: 150px;
+  height: 200px;
+  border: 15px solid #b71c1c; /* Vermelho escuro */
+  padding: 10px;
+  margin: 20px;
+}
